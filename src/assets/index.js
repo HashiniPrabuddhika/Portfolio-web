@@ -38,7 +38,7 @@ import mobileApp from "./mobileApp.png";
 import wineQuality from "./wineQuality.png";
 import POS from "./POS.png";
 import supermarket from "./supermarket.png";
-import chatAPP from "./chatAPP.png";
+import chatAPP from "./chatApp.png";
 export { close, logo, menu, oscs,myImage,scroll ,backend,contactImg,Ayurvedic,
     creator,
     mobile,
